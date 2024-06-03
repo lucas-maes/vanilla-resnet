@@ -1,0 +1,14 @@
+argparse
+accelerate
+numpy
+matplotlib
+pyyaml
+seaborn
+torch
+transformers
+torchvision
+tiktoken
+datasets
+tqdm
+vit-pytorch
+wandb
